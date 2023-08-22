@@ -22,7 +22,7 @@ password = getpass.getpass("Password: ", stream=None)
 email_destiny = ""
 
 
-assuntos_ = ["lindo", "corno", "guei", "estranho", "doido", "bebado", "noia", "doidao", "louco", "jogar de freefas", "nerdao", "ruim de bola", "lambe bolas"]
+assuntos_ = ["lindo", "jambroloso", "estranho", "doidao", "pingaiada", "cabecao", "mane", "louco", "jogador de freefas", "nerdao", "ruim de bola", "cheiroso(a)"]
 
 papos_ = ['couve flor', 'papel higiênico', 'papelão', 'banana', 'computador', 'chave de fenda', 'abacaxi', 'mouse', 'pneu', 'espelho', 'batata', 'lápis', 'lâmpada', 'tesoura', 'cenoura', 'cadeira', 'martelo', 'ventilador', 'geladeira', 'tomate', 'violão', 'meia', 'escova de dentes', 'mochila', 'berinjela', 'copo', 'carro', 'garrafa', 'sofá', 'amendoim']
 
